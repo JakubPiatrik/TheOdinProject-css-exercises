@@ -4,10 +4,10 @@
     font-family: Helvetica,"Times new Roman", sans-serif;
 }
 
-#first {
+.first {
     background-color: black;
     color: white;
 }
-#second {
+.second {
     background-color: yellow;
 }
